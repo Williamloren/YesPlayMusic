@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://vercel.com/trloren/vercel-json-fu41/:match*"
+    }
+  ]
+}
